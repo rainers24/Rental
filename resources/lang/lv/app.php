@@ -3,8 +3,8 @@
 return [
 
     'home' => 'Sākums',
-    'posts' => 'Raksti',
-    'contacts' => 'Kantakti',
+    'posts' => 'Izveidotie raksti',
+    'contacts' => 'Car rental form',
     'login' => 'Ielogoties',
     'register' => 'Reģistrēties',
    
