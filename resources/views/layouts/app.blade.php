@@ -53,7 +53,6 @@
 
     </div>
     <footer id="footer" class="text-center">
-			<p>Copyright 2018 &copy; Krišjānis Beitāns</p>
 	</footer>
 	 <script src="/vendor/unisharp/laravel-ckeditor/ckeditor.js"></script>
     <script>

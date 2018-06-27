@@ -1,7 +1,7 @@
 
 <nav class="navbar navbar-expand-sm bg-light">
     <div class="container">
-          <a class="navbar-brand" href="{{ url('/') }}">WebTech2</a>
+          <a class="navbar-brand" href="{{ url('/') }}">CAR RENTAL</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
               <span class="navbar-toggler-icon"></span>
           </button>
@@ -41,7 +41,7 @@
                               {{ Auth::user()->name }} <span class="caret"></span>
                           </a>
                           <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="/dashboard">Dashboard</a>
+                            <a class="dropdown-item" href="/dashboard">DASH</a>
                             
                             
                               <a class="dropdown-item" href="{{ route('logout') }}"
@@ -59,11 +59,10 @@
                   @endguest
                   <li class="nav-item dropdown">
                     <a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>
-                              Language <span class="caret"></span>
+                              LANGUAGE <span class="caret"></span>
                           </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="en">Eng</a>
-                  <a class="dropdown-item" href="es">Es</a>
+                  <a class="dropdown-item" href="en">English</a>
                 </div>
 
                   </li>
