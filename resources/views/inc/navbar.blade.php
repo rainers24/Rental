@@ -10,13 +10,13 @@
               <!-- Left Side Of Navbar -->
               <ul class="navbar-nav mr-auto">
                   <li class="nav-item active">
-                  <a class="nav-link disabled" href="/">@lang('app.home') <span class="sr-only">(current)</span></a>
+                  <a class="nav-link disabled" href="/">@lang('Sākums') <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item active">
-                  <a class="nav-link disabled" href="/videos">@lang('app.posts')</a>
+                  <a class="nav-link disabled" href="/videos">@lang('izveidotie raksti')</a>
                 </li>
                 <li class="nav-item active">
-                  <a class="nav-link disabled" href="/contact">@lang('app.contacts')</a>
+                  <a class="nav-link disabled" href="/contact">@lang('Car rental form')</a>
                 </li>
               </ul>
 
@@ -57,15 +57,7 @@
                       </li>
 
                   @endguest
-                  <li class="nav-item dropdown">
-                    <a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>
-                              LANGUAGE <span class="caret"></span>
-                          </a>
-                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="en">English</a>
-                </div>
 
-                  </li>
                   
               </ul>
               
