@@ -91,6 +91,9 @@ html {
   -ms-text-size-adjust: 100%;
   -ms-overflow-style: scrollbar;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  background-image: url("../img/back.jpg");
+
+
 }
 
 @-ms-viewport {
@@ -119,7 +122,6 @@ body {
   line-height: 1.6;
   color: #212529;
   text-align: left;
-  background-color: #f5f8fa;
 }
 
 [tabindex="-1"]:focus {
