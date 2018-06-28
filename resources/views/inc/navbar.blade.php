@@ -13,7 +13,7 @@
                   <a class="nav-link disabled" href="/">@lang('Sākums') <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item active">
-                  <a class="nav-link disabled" href="/videos">@lang('izveidotie raksti')</a>
+                  <a class="nav-link disabled" href="/videos">@lang('Atsauksmes')</a>
                 </li>
                 <li class="nav-item active">
                   <a class="nav-link disabled" href="/contact">@lang('Car rental form')</a>

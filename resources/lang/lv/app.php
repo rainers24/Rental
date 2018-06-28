@@ -3,7 +3,7 @@
 return [
 
     'home' => 'Sākums',
-    'posts' => 'Izveidotie raksti',
+    'posts' => 'Atsauksmes',
     'contacts' => 'Car rental form',
     'login' => 'Ielogoties',
     'register' => 'Reģistrēties',
